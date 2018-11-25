@@ -17,4 +17,4 @@ Run `node app.js remove -t "Your Title Here"`
 Run `node app.js list`
 
 #### Output :
-</br><img src="https://github.com/ashiagarwal73/MyNotesApp/blob/master/output.png" width="350" alt="output"></br>
+</br><img src="https://github.com/ashiagarwal73/MyNotesApp/blob/master/output.png" width="1000" alt="output"></br>
